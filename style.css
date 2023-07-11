@@ -18,21 +18,19 @@ body{
     background-color: var(--pale-blue);
     font-size: 16px;
     font-family: "Red Hat Display", sans-serif;
-    
-    
-}
+    }
 
 
 .card{
    
-width: 450px;
-display: block;
-margin: 150px auto;
-background-color: white;
-color: var(--desaturated-blue);
-border-radius: 20px;
-overflow: hidden;
-}
+        width: 450px;
+        display: block;
+        margin: 150px auto;
+        background-color: white;
+        color: var(--desaturated-blue);
+        border-radius: 20px;
+        overflow: hidden;
+    }
 
 
 .title{
@@ -41,52 +39,52 @@ overflow: hidden;
     font-weight: 900;
     font-size: 35px;
     
-}
+    }
 
 
 .girl{
 width: 100%;
-}
+    }
 
 .container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    padding: 30px;
-    font-size: 18px;
-}
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            padding: 30px;
+            font-size: 18px;
+        }
 
 .container > *{
-    margin: 13px 0;
-}
+            margin: 13px 0;
+        }
 
 .container strong{
-    color: var(--dark-blue);
-}
+            color: var(--dark-blue);
+        }
 
 
 .plan-container{
-     font-size: 16px;
-     background-color: var(--very-pale-blue);
-     padding: 25px;
-     border-radius: 10px;
-     display:flex;
-     flex-direction: row;
-     justify-content: space-between;
-     align-items: center;
-}
+             font-size: 16px;
+             background-color: var(--very-pale-blue);
+             padding: 25px;
+             border-radius: 10px;
+             display:flex;
+             flex-direction: row;
+             justify-content: space-between;
+             align-items: center;
+            }
 
 .plan-container a {
     color: var(--bright-blue);
     font-size: 13px;
     font-weight: 700;
-}
+        }
 
 .plan-container a:hover{
-    color: var(--bright-blue-hover);
-    text-decoration: none;
-}
+            color: var(--bright-blue-hover);
+            text-decoration: none;
+        }
 
 
 .plan{
